@@ -1,0 +1,1 @@
+The primary weakness of the Vigenère cipher is the repeating nature of its key. If a cryptanalyst correctly guesses the key's length, then the ciphertext can be treated as interwoven Caesar ciphers, which individually are easily broken
